@@ -1,5 +1,0 @@
-Put the members of your group here:
-
-member1: 
-member2: 
-
